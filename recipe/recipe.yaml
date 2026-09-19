@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.4.2"
+  version: "2.4.3"
 
 package:
   name: tadc
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/NOAA-CO-OPS/CO-OPS-Tidal-Analysis-Datum-Calculator/archive/v${{ version }}.tar.gz
-  sha256: d0926ac34fc47e775aa8f9289330d44ffa385f0907486c93655d269f3b858c49
+  sha256: 82121f851ca1ad195da1c3f11d9272d7a33afbf26832bc607ae50d71fe7e855b
 
 build:
   number: 0
